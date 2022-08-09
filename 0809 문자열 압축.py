@@ -26,4 +26,3 @@ def solution(s):
         
 
     return min(result)
-출처: https://ljhyunstory.tistory.com/18 [오늘도 컴돌이!:티스토리]
